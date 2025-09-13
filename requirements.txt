@@ -1,4 +1,5 @@
 # Requirements for the complete costumy experience
 -r requirements_2d.txt
+--extra-index-url https://download.blender.org/pypi/
 bpy==4.0.0          # Blender as a package for simulation and 3D renders
 triangle==20230923  # for a terrible way to create patterns topology in costumy.simulation

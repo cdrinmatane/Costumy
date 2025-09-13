@@ -1,11 +1,11 @@
 
-# Costumy
+# [Costumy](https://cdrinmatane.github.io/Costumy/)
 
 
 ![3D render of an interior scene. The foreground shows a floating tanktop in blue on the left. "Costumy" can be read on the right." ](docs/assets/media/costumy_banner.png)
 
 > [!WARNING]
-> Costumy is a prototype and has [limitations](docs/About/limitations.md).
+> Costumy is a prototype and has [limitations](https://cdrinmatane.github.io/Costumy/About/limitations/).
 
 ## Introduction
 
@@ -71,18 +71,18 @@ With those, you can :
 
 ## Installation
 
-See [Installation](docs/installation.md)
+See [Installation](https://cdrinmatane.github.io/Costumy/installation/)
 
 ## Complete Documentation
 
-Costumy has a nice static documentation, see [how to build docs](docs/Dev/docs.md)  
+Costumy has a nice [static documentation](https://cdrinmatane.github.io/Costumy/), see [how to build docs](https://cdrinmatane.github.io/Costumy/Dev/docs/)
 You have to install Costumy first, then serve the documentation locally.
 
 ![Screenshot of the docs](docs/assets/media/docs_screenshot.png)
 
 ## Credits
 
-Costumy was developped by [Christophe Marois](https://github.com/Qaqelol) within a [CDRIN](https://www.cdrin.com/) R&D project.  
+Costumy was developed by [Christophe Marois](https://github.com/Qaqelol) within a [CDRIN](https://www.cdrin.com/) R&D project.  
 
 Special Thanks to :
 
@@ -94,4 +94,4 @@ Special Thanks to :
 ## License
 
 This version of costumy is under GNU [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html).  
-See [licences and credits](docs/About/licenses.md) for the complete list.
+See [licences and credits](https://cdrinmatane.github.io/Costumy/About/licenses/) for the complete list.
